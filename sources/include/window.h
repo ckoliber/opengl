@@ -1,0 +1,1 @@
+void start(int argc, char** argv, void (*internal_render)(void), int projection);
